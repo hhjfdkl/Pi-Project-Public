@@ -26,8 +26,7 @@
 
 **Raspberry Pi Imager**: To flash OS onto the microSD card
 
-**Web Server**: _Nginx_ : Configured for reverse-proxy between services
-- See [Reverse Proxy](/reverse-proxy-setup.md) section
+**Web Server**: [Nginx](/reverse-proxy-setup.md) : Configured for reverse-proxy between services
 
 **Hosted Applications**: 
 - [OpenMediaVault](/OpenMediaVault.md)
